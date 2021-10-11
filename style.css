@@ -1,0 +1,90 @@
+
+div{
+  color : white ;
+  text-align:center;
+  color: white;
+  
+          text-shadow: -1px 1px 0 #000,
+                        1px 1px 0 #000,
+                       1px -1px 0 #000,
+                      -1px -1px 0 #000;
+
+}
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+ background-image: url('https://www.quizexpo.com/wp-content/uploads/2020/04/cover-4-1024x592.jpg');
+background-attachment: fixed;
+background-size: cover;
+}
+p { color : white ;
+  text-align:center;
+  color: white;
+  
+          text-shadow: -1px 1px 0 #000,
+                        1px 1px 0 #000,
+                       1px -1px 0 #000,
+                      -1px -1px 0 #000;
+
+}
+
+.button{
+  color : white ;
+  text-align:center;
+  color: white;
+  
+          text-shadow: -1px 1px 0 #000,
+                        1px 1px 0 #000,
+                       1px -1px 0 #000,
+                      -1px -1px 0 #000;
+}
+h1 {
+  font-size: 80px;
+  color : white ;
+  text-align:center;
+  color: white;
+  
+          text-shadow: -1px 1px 0 #000,
+                        1px 1px 0 #000,
+                       1px -1px 0 #000,
+                      -1px -1px 0 #000;
+}
+
+h2 {
+  font-size: 40px;
+  text-align: center;
+  margin-top: 2em; 
+}
+
+h3 {
+  font-size: 80px;
+  text-align: center;
+  margin-top: 2em; 
+  
+}
+
+.question {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-top: 2em;
+  text-align: center;
+}
+  
+.answer-choice img {
+  border-radius: 12px;
+  justify-content: space-evenly;
+  height: 15em;
+  /*font-size: 1px;*/
+}
+
+button{
+  margin: 10px;
+}
+
+
+
+.button:hover {
+  background-color: #2f3180; 
+  color: white;
+}
